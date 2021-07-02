@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acme.sistemas.obra.api", "acme.sistemas.obra.api\acme.sistemas.obra.api.csproj", "{F490D77A-EC68-40F8-8F55-72C092312AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F490D77A-EC68-40F8-8F55-72C092312AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F490D77A-EC68-40F8-8F55-72C092312AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F490D77A-EC68-40F8-8F55-72C092312AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F490D77A-EC68-40F8-8F55-72C092312AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F7E15B-883B-4079-9C33-FFA339079500}
+	EndGlobalSection
+EndGlobal
