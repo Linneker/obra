@@ -3,3 +3,5 @@
 ################################################################################
 
 *.cache
+/ObraJa/acme.sistemas.obra.api/bin
+/ObraJa/acme.sistemas.obra.api/obj
